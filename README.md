@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @LuisFelipeAN
-- My Portifolio is at: https://luisfelipean.com
-- 👀 I'm interested in development back-end and front-end 
-- 🌱 I’m currently learning Java Spring and Node.js
-- 📫You can reach me through the e-mail <luis.felipe.almeida.nascimento@gmail.com>
+- My Portfolio is at: https://luisfelipean.com
+- 👀 I'm a back-end and front-end developer
+- 📫 You can reach me through the e-mail <luis.felipe.almeida.nascimento@gmail.com>
 
 <div align="center">
   <a href="https://github.com/LuisFelipeAN">
